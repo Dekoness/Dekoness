@@ -10,7 +10,7 @@ Actualmente estoy cursando un bootcamp de **Desarrollo Web Full Stack en 4Geeks 
 
 Además, compagino mis estudios con dos trabajos para poder financiar mi transición profesional, lo que me hace ser muy disciplinado y constante.
 
-📍 Desde Valencia, con la mirada puesta en las **Islas Canarias** como próximo destino para vivir y trabajar como desarrollador.
+📍 Desde Valencia.
 
 ---
 
