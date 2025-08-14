@@ -44,7 +44,7 @@ Además, compagino mis estudios con dos trabajos para poder financiar mi transic
 ## 📫 ¿Quieres contactar conmigo?
 
 - Email: federicozoppi.ita@gmail.com
-- LinkedIn: *(añade tu enlace aquí)*
+- LinkedIn: [*(añade tu enlace aquí)*](https://www.linkedin.com/in/federico-zoppi-94628a1ba/)
 - Portfolio: *(cuando lo tengas, lo ponemos aquí)*
 
 ---
