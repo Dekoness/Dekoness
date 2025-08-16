@@ -45,7 +45,7 @@ Además, compagino mis estudios con dos trabajos para poder financiar mi transic
 
 - Email: federicozoppi.ita@gmail.com
 - LinkedIn: [*(LINKEDIN Federico Zoppi)*](https://www.linkedin.com/in/federico-zoppi-94628a1ba/)
-- Portfolio: *(cuando lo tengas, lo ponemos aquí)*
+- Portfolio: *()*
 
 ---
 
