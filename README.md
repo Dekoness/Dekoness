@@ -44,7 +44,7 @@ Recién graduado del Bootcamp de Desarrollo Web Full Stack en 4Geeks Academy, do
 ## 📫 ¿Quieres contactar conmigo?
 
 - Email: federicozoppi.ita@gmail.com
-- LinkedIn: [*(LINKEDIN Federico Zoppi)*](https://www.linkedin.com/in/federico-zoppi-94628a1ba/)
+- LinkedIn: [*(LINKEDIN Federico Zoppi)*](https://www.linkedin.com/in/federico-zoppi-tech/)
 
 ---
 
