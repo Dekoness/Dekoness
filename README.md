@@ -63,18 +63,12 @@ Plataforma de streaming musical colaborativa
 - **Tech:** React, TypeScript, Zustand, Tailwind CSS, Vite
 - **Features:** Reproductor, playlists, sistema de recomendaciones
 
-### 🛒 Plataforma E-commerce
-Solución completa de comercio electrónico
-- **Tech:** Next.js, Firebase, Stripe, TypeScript
-- **Features:** Pasarela de pagos, gestión de inventario, panel admin
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![Federico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dekoness&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dekoness&layout=compact&theme=radical)
 
 </div>
