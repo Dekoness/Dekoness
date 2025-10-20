@@ -9,24 +9,33 @@ Desarrollador Fullstack especializado en Backend, APIs robustas y escalables con
 🛠️ Tech Stack - Especialización Backend
 
 🐍 Backend Core
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
 🗄️ Bases de Datos & ORM
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 🔐 Seguridad & Autenticación
+
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Argon2-8A2BE2?style=for-the-badge&logo=key&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
 
 🌐 APIs & Protocolos
+
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+
 🚀 Deployment & DevOps
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ⚡ Frontend 
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 💼 Proyectos Backend Destacados
+
 🎵 FlaZic API - Backend Principal
+
 API completa para plataforma musical - FastAPI + PostgreSQL
 
 Tech: Python, FastAPI, SQLAlchemy, PostgreSQL, JWT, Argon2
@@ -38,6 +47,7 @@ Deploy: Railway + PostgreSQL
 API Docs: https://flazic-api.up.railway.app/docs
 
 🏡 Mi Rincón Escondido - Backend
+
 Sistema de reservas - API REST
 
 Tech: Node.js, Express, PostgreSQL, JWT
@@ -45,6 +55,7 @@ Tech: Node.js, Express, PostgreSQL, JWT
 Features: Booking system, payment integration, admin panel API
 
 📊 GitHub Stats
+
 <div align="center">
 https://github-readme-stats.vercel.app/api/top-langs/?username=Dekoness&layout=compact&theme=radical&hide=html,css,scss
 
@@ -52,7 +63,9 @@ https://github-readme-stats.vercel.app/api?username=Dekoness&show_icons=true&the
 
 </div>
 🎯 Especialidades Backend
+
 🔧 Arquitectura de APIs
+
 Diseño RESTful APIs escalables
 
 Documentación automática con Swagger/OpenAPI
@@ -60,6 +73,7 @@ Documentación automática con Swagger/OpenAPI
 Versionado y mantenibilidad
 
 🗄️ Gestión de Bases de Datos
+
 Modelado relacional con SQLAlchemy
 
 Optimización de queries
@@ -67,6 +81,7 @@ Optimización de queries
 Migraciones y versionado
 
 🔐 Seguridad
+
 Autenticación JWT + refresh tokens
 
 Hashing con Argon2
@@ -74,6 +89,7 @@ Hashing con Argon2
 Validación y sanitización de datos
 
 🚀 Performance
+
 Async/await en FastAPI
 
 Caching strategies
