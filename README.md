@@ -72,7 +72,7 @@ Sistema de planificación orquestado con LangGraph y modelo Azure OpenAI gpt-4.1
 Integra consultas en tiempo real a múltiples APIs (vuelos, hoteles, clima, cambio de divisas) 
 y permite descargar itinerarios en PDF.
 
-[![Demo Live](https://img.shields.io/badge/🚀-Demo_Live-green?style=for-the-badge)]((https://wonderful-meadow-00504a903.2.azurestaticapps.net/))
+[![Demo Live](https://img.shields.io/badge/🚀-Demo_Live-green?style=for-the-badge)](https://wonderful-meadow-00504a903.2.azurestaticapps.net/)
 [![Repositorio](https://img.shields.io/badge/🔗-Repositorio-blue?style=for-the-badge)](https://github.com/Dekoness/agente-de-viaje)
 
 ---
@@ -80,7 +80,7 @@ y permite descargar itinerarios en PDF.
 Plataforma interactiva para mostrar proyectos de IA y Full Stack con 
 despliegues en vivo y documentación técnica detallada.
 
-[![Demo Live](https://img.shields.io/badge/🚀-Demo_Live-green?style=for-the-badge)]((https://witty-coast-0141f0b03.4.azurestaticapps.net/))
+[![Demo Live](https://img.shields.io/badge/🚀-Demo_Live-green?style=for-the-badge)](https://witty-coast-0141f0b03.4.azurestaticapps.net/)
 
 ---
 
