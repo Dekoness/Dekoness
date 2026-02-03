@@ -14,12 +14,6 @@
 
 ---
 
-### 🧠 Mi Superpoder
-
-> **"Aprender en tiempo récord lo que tu equipo necesita."**
-
----
-
 ## 👨‍💻 Sobre Mí
 
 Desarrollador Full Stack & Cloud con especialización en soluciones de IA. Combino mi pasión por resolver problemas complejos con experiencia en Azure AI, LangChain y arquitecturas cloud para crear soluciones robustas y escalables.
